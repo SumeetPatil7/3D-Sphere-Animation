@@ -4,7 +4,7 @@
 
 
 
-![logo](https://github.com/mumal885/3D-Sphere-Animation/blob/main/3d.png)
+![logo](https://github.com/SumeetPatil7/3D-Sphere-Animation/blob/main/3D%20Sphere%20Animation/3d.png)
 # 3D-Sphere-Animation
 This 3D-Sphere-Animation is coded in html, css,js.
 
